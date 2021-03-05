@@ -1,0 +1,25 @@
+/* Style sheet created by: Samantha Tracy, 2/17/2021 */
+
+/* style for body specifies background color and font type */
+body {
+		background-color: #FF9900;
+		font-family: Calibri, sans-serif;
+}
+
+#wrapper{
+		width: 80%;
+		text-align: center;
+}
+
+.floatleft{
+		float: left;
+		margin-right: 2%;
+}
+
+nav ul{
+		list-style-type: none;
+}
+
+.boldtext, dt{
+		font-weight: bold;
+}
